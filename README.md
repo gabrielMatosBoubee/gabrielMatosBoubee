@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student in the Trybe. I want to learn about devoloper web and more features!
+I am a student at Trybe. I want to learn about development web and more features!
 
 
 ## 🌐 Socials:
