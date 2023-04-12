@@ -13,7 +13,6 @@
 </
 <!-- Instagram -->
 <a  href="https://www.linkedin.com/in/gabriel-matos-boubee/" target="blank><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-boubee" height="40" width="160" /></a>
-</
 </p>
 
  ## Core
