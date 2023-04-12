@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/gabriel-matos-boubee/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-boubee" height="40" width="140" /></a>
 </
 <a  href="https://www.linkedin.com/in/gabriel-matos-boubee/" target="blank><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-boubee" height="40" width="160" /></a>
+</
 </p>
 
  ## Core
