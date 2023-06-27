@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Matos Boubee</h1>
-<h3 align="center">FullSatck Web Develores. Electronics technician and passionate about technology problem solving.</h3>
+<h3 align="center">FullSatck Web Developer. Electronics technician and passionate about technology problem solving.</h3>
 
 - 💡 Searching for a Job in Back End Development.
  
